@@ -7,6 +7,8 @@
 
 <img src="./reference_img/bg.png">
 
+<br>
+
 ## 팀원
 
 |이름|기여|
@@ -25,7 +27,7 @@
 
 <br>
 
-# 실행 방법
+## 실행 방법
 > 직접 실행해보고 싶다면?
 1. 우선 [SilverEscape.zip](./SilverEscape.zip) 파일을 다운로드합니다. 
 2. 위의 링크로 가서 우측의 `Download` 버튼을 누릅니다.
@@ -35,7 +37,5 @@
 
 ## 개발 정보 및 참고
 > 현재 Git Hub에 업로드된 파일은 Assets를 최소화하고 소스코드를 남겨둔 파일입니다.
-
-<br>
 
 <img src="./reference_img/info.png">
