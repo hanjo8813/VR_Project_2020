@@ -32,7 +32,6 @@
 
 <br>
 
-
 ## 플레이 화면
 ![2](https://user-images.githubusercontent.com/71180414/104819438-dfd82d00-5870-11eb-811d-0640d5e6ff3e.gif)
 <p align='center'>1) 캐릭터이동</p>
@@ -44,9 +43,6 @@
 
 ![4](https://user-images.githubusercontent.com/71180414/104819464-0e560800-5871-11eb-9488-c2a6a091454f.gif)
 <p align='center'>3) 결과화면</p>
-<br>
-
-
 <br>
 
 ## 실행 방법
