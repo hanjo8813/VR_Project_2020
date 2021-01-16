@@ -30,13 +30,13 @@
 
 ## 플레이 화면
 ![2](https://user-images.githubusercontent.com/71180414/104819438-dfd82d00-5870-11eb-811d-0640d5e6ff3e.gif)
-<p style='text-align:center'>1) 캐릭터이동</p>
+<p align='center'>1) 캐릭터이동</p>
 
 ![3](https://user-images.githubusercontent.com/71180414/104819455-fed6bf00-5870-11eb-93c5-4ff9fce94328.gif)
-<p style='text-align:center'>2) 화재상황</p>
+<p align='center'>2) 화재상황</p>
 
 ![4](https://user-images.githubusercontent.com/71180414/104819464-0e560800-5871-11eb-9488-c2a6a091454f.gif)
-<p style='text-align:center'>3) 결과화면</p>
+<p align='center'>3) 결과화면</p>
 
 
 <br>
