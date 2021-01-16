@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="./reference_img/bg.png">
+![1](https://user-images.githubusercontent.com/71180414/104817450-b6190900-5864-11eb-8a86-299084d89fef.gif)
 
 <br>
 
