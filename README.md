@@ -22,8 +22,22 @@
 
 ## 프로젝트 소개
 1. Silver Escape는 재난 상황을 가상현실로 미리 체험해 볼 수 있는 Unity 어플리케이션입니다.
-2. 사용자는 가상현실에서 재난 상황을 체험해보고 대처 방법을 학습합니다.
-3. 어쩌구저쩌구...
+2. 사용자는 가상현실에서 재난 상황을 체험해보고 대처 방법을 학습할 수 있습니다.
+3. 
+
+<br>
+
+
+## 플레이 화면
+![2](https://user-images.githubusercontent.com/71180414/104819438-dfd82d00-5870-11eb-811d-0640d5e6ff3e.gif)
+<p style='text-align:center'>1) 캐릭터이동<p>
+
+![3](https://user-images.githubusercontent.com/71180414/104819455-fed6bf00-5870-11eb-93c5-4ff9fce94328.gif)
+<p style='text-align:center'>2) 화재상황<p>
+
+![4](https://user-images.githubusercontent.com/71180414/104819464-0e560800-5871-11eb-9488-c2a6a091454f.gif)
+<p style='text-align:center'>3) 결과화면<p>
+
 
 <br>
 
